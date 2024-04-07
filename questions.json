@@ -1,0 +1,946 @@
+[
+  {
+      "question": "Find the derivative of f(x) = 3x^2.",
+      "choice1": "6",
+      "choice2": "3x^2",
+      "choice3": "6x",
+      "choice4": "2x",
+      "soln": "6x"
+  },
+  {
+      "question": "Find the derivative of f(x) = 4x^3.",
+      "choice1": "12x",
+      "choice2": "4x^2",
+      "choice3": "3x^4",
+      "choice4": "12x^2",
+      "soln": "12x^2"
+  },
+  {
+      "question": "Find the derivative of f(x) = 5x^4.",
+      "choice1": "5x^3",
+      "choice2": "10x^2",
+      "choice3": "4x^5",
+      "choice4": "20x^3",
+      "soln": "20x^3"
+  },
+  {
+      "question": "Find the derivative of f(x) = 2x^5.",
+      "choice1": "2x^4",
+      "choice2": "10x^4",
+      "choice3": "2x^3",
+      "choice4": "5x^6",
+      "soln": "10x^4"
+  },
+  {
+      "question": "Find the derivative of f(x) = 6x^3.",
+      "choice1": "6x^2",
+      "choice2": "3x^4",
+      "choice3": "18x^2",
+      "choice4": "6x^4",
+      "soln": "18x^2"
+  },
+  {
+      "question": "Find the derivative of f(x) = 7x^2.",
+      "choice1": "14",
+      "choice2": "2x",
+      "choice3": "7x^2",
+      "choice4": "14x",
+      "soln": "14x"
+  },
+  {
+      "question": "Find the derivative of f(x) = 8x^4.",
+      "choice1": "16x^3",
+      "choice2": "32x^3",
+      "choice3": "8x^5",
+      "choice4": "32x^4",
+      "soln": "32x^3"
+  },
+  {
+      "question": "Find the derivative of f(x) = 9x^3.",
+      "choice1": "18x^2",
+      "choice2": "27x^2",
+      "choice3": "9x^4",
+      "choice4": "27x^3",
+      "soln": "27x^2"
+  },
+  {
+      "question": "Find the derivative of f(x) = 10x^2.",
+      "choice1": "10x^2",
+      "choice2": "2x",
+      "choice3": "20",
+      "choice4": "20x",
+      "soln": "20x"
+  },
+  {
+      "question": "Find the derivative of f(x) = 11x^4.",
+      "choice1": "4x^5",
+      "choice2": "11x^4",
+      "choice3": "44x^3",
+      "choice4": "44x^4",
+      "soln": "44x^3"
+  },
+  {
+      "question": "Find the derivative of f(x) = 12x^3.",
+      "choice1": "12x^4",
+      "choice2": "24x^2",
+      "choice3": "36x^2",
+      "choice4": "36x^3",
+      "soln": "36x^2"
+  },
+  {
+      "question": "Find the derivative of f(x) = 13x^2.",
+      "choice1": "26",
+      "choice2": "2x",
+      "choice3": "13x^2",
+      "choice4": "26x",
+      "soln": "26x"
+  },
+  {
+      "question": "Find the derivative of f(x) = 14x^4.",
+      "choice1": "56x^4",
+      "choice2": "14x^4",
+      "choice3": "4x^5",
+      "choice4": "56x^3",
+      "soln": "56x^3"
+  },
+  {
+      "question": "Find the derivative of f(x) = 15x^3.",
+      "choice1": "30x^2",
+      "choice2": "15x^4",
+      "choice3": "45x^2",
+      "choice4": "45x^3",
+      "soln": "30x^2"
+  },
+  {
+      "question": "Find the derivative of f(x) = 16x^2.",
+      "choice1": "2x",
+      "choice2": "16x^2",
+      "choice3": "32x",
+      "choice4": "32",
+      "soln": "32x"
+  },
+  {
+      "question": "Find the derivative of f(x) = 17x^4.",
+      "choice1": "17x^4",
+      "choice2": "68x^4",
+      "choice3": "68x^3",
+      "choice4": "4x^5",
+      "soln": "68x^3"
+  },
+  {
+      "question": "Find the derivative of f(x) = 18x^3.",
+      "choice1": "54x^3",
+      "choice2": "36x^3",
+      "choice3": "18x^4",
+      "choice4": "54x^2",
+      "soln": "54x^2"
+  },
+  {
+      "question": "Find the derivative of f(x) = 19x^2.",
+      "choice1": "2x",
+      "choice2": "19x^2",
+      "choice3": "38x",
+      "choice4": "38",
+      "soln": "38x"
+  },
+  {
+      "question": "Find the derivative of f(x) = 20x^4.",
+      "choice1": "80x^4",
+      "choice2": "20x^4",
+      "choice3": "80x^3",
+      "choice4": "4x^5",
+      "soln": "80x^3"
+  },
+  {
+      "question": "Find the derivative of f(x) = 21x^3.",
+      "choice1": "63x^3",
+      "choice2": "42x^2",
+      "choice3": "21x^4",
+      "choice4": "63x^2",
+      "soln": "63x^2"
+  },
+  {
+      "question": "Compute the integral ∫(2x + 3) dx.",
+      "choice1": "2x^2 + 3x + C",
+      "choice2": "x^2 + 3x + C",
+      "choice3": "2x^2 + 3 + C",
+      "choice4": "x^2 + 3 + C",
+      "soln": "x^2 + 3x + C"
+  },
+  {
+      "question": "Compute the integral ∫(3x^2 + 2x) dx.",
+      "choice1": "x^3 + x^2 + C",
+      "choice2": "3x^3 + x^2 + C",
+      "choice3": "x^3 + x + C",
+      "choice4": "3x^3 + x + C",
+      "soln": "x^3 + x^2 + C"
+  },
+  {
+      "question": "Compute the integral ∫(4x^3 + 5x^2) dx.",
+      "choice1": "x^4 + (5/3)x^3 + C",
+      "choice2": "(2/5)x^4 + (5/3)x^3 + C",
+      "choice3": "x^4 + (5/3)x^2 + C",
+      "choice4": "(2/5)x^4 + (5/3)x^2 + C",
+      "soln": "(1/5)x^4 + (5/3)x^3 + C"
+  },
+  {
+      "question": "Compute the integral ∫(2x^4 + 3x^3) dx.",
+      "choice1": "(1/2)x^5 + (3/4)x^4 + C",
+      "choice2": "x^5 + (3/4)x^4 + C",
+      "choice3": "(1/2)x^5 + (3/4)x^2 + C",
+      "choice4": "x^5 + (3/4)x^2 + C",
+      "soln": "(1/2)x^5 + (3/4)x^4 + C"
+  },
+  {
+      "question": "Compute the integral ∫(5x^2 + 2) dx.",
+      "choice1": "(5/3)x^3 + 2x + C",
+      "choice2": "5x^3 + 2x + C",
+      "choice3": "(5/3)x^3 + 2 + C",
+      "choice4": "5x^3 + 2 + C",
+      "soln": "(5/3)x^3 + 2x + C"
+  },
+  {
+      "question": "Compute the integral ∫(6x^3 + 2x) dx.",
+      "choice1": "(3/2)x^4 + x^2 + C",
+      "choice2": "3x^4 + x^2 + C",
+      "choice3": "(3/2)x^4 + x + C",
+      "choice4": "3x^4 + x + C",
+      "soln": "(3/2)x^4 + x^2 + C"
+  },
+  {
+      "question": "Compute the integral ∫(7x^4 + 4x^3) dx.",
+      "choice1": "(7/5)x^5 + x^4 + C",
+      "choice2": "7x^5 + x^4 + C",
+      "choice3": "(7/5)x^5 + x^3 + C",
+      "choice4": "7x^5 + x^3 + C",
+      "soln": "(7/5)x^5 + x^4 + C"
+  },
+  {
+      "question": "Compute the integral ∫(3x^2 + 5x) dx.",
+      "choice1": "x^3 + (5/2)x^2 + C",
+      "choice2": "3x^3 + (5/2)x^2 + C",
+      "choice3": "x^3 + (5/2)x + C",
+      "choice4": "3x^3 + (5/2)x + C",
+      "soln": "x^3 + (5/2)x^2 + C"
+  },
+  {
+      "question": "Compute the integral ∫(2x^3 + 3x^2) dx.",
+      "choice1": "(1/2)x^4 + x^3 + C",
+      "choice2": "2x^4 + x^3 + C",
+      "choice3": "(1/2)x^4 + x^2 + C",
+      "choice4": "2x^4 + x^2 + C",
+      "soln": "(1/2)x^4 + x^3 + C"
+  },
+  {
+      "question": "Compute the integral ∫(4x^4 + 2x^2) dx.",
+      "choice1": "(4/5)x^5 + (2/3)x^3 + C",
+      "choice2": "(4/5)x^5 + (2/3)x^2 + C",
+      "choice3": "(4/5)x^6 + (2/3)x^3 + C",
+      "choice4": "(4/5)x^6 + (2/3)x^2 + C",
+      "soln": "(4/5)x^5 + (2/3)x^3 + C"
+  },
+  {
+      "question": "Compute the integral ∫(5x^3 + 6x^2) dx.",
+      "choice1": "(5/4)x^4 + 2x^3 + C",
+      "choice2": "5x^4 + 2x^3 + C",
+      "choice3": "(5/4)x^4 + 2x + C",
+      "choice4": "5x^4 + 2x + C",
+      "soln": "(5/4)x^4 + 2x^3 + C"
+  },
+  {
+      "question": "Compute the integral ∫(6x^2 + 7x) dx.",
+      "choice1": "(2/3)x^3 + (7/2)x^2 + C",
+      "choice2": "2x^3 + (7/2)x^2 + C",
+      "choice3": "(2/3)x^3 + (7/2)x + C",
+      "choice4": "2x^3 + (7/2)x + C",
+      "soln": "(2/3)x^3 + (7/2)x^2 + C"
+  },
+  {
+      "question": "Compute the integral ∫(7x^3 + 3x^2) dx.",
+      "choice1": "(7/4)x^4 + (5/3)x^3 + C",
+      "choice2": "7x^4 + (5/3)x^3 + C",
+      "choice3": "(7/4)x^4 + (5/3)x + C",
+      "choice4": "7x^4 + (5/3)x + C",
+      "soln": "(7/4)x^4 + (5/3)x^3 + C"
+  },
+  {
+      "question": "Compute the integral ∫(2x^5 + 5x^3) dx.",
+      "choice1": "(1/3)x^6 + (5/4)x^4 + C",
+      "choice2": "2x^6 + (5/4)x^4 + C",
+      "choice3": "(1/3)x^6 + (5/3)x^2 + C",
+      "choice4": "2x^6 + (5/3)x^2 + C",
+      "soln": "(1/3)x^6 + (5/4)x^4 + C"
+  },
+  {
+      "question": "Compute the integral ∫(3x^4 + 2x^3) dx.",
+      "choice1": "(3/5)x^5 + (1/2)x^4 + C",
+      "choice2": "3x^5 + (1/2)x^4 + C",
+      "choice3": "(3/5)x^5 + x^3 + C",
+      "choice4": "3x^5 + x^3 + C",
+      "soln": "(3/5)x^5 + (1/2)x^4 + C"
+  },
+  {
+      "question": "Compute the integral ∫(4x^3 + 3x^2) dx.",
+      "choice1": "x^4 + x^3 + C",
+      "choice2": "4x^4 + x^3 + C",
+      "choice3": "x^4 + x^2 + C",
+      "choice4": "4x^4 + x^2 + C",
+      "soln": "x^4 + x^3 + C"
+  },
+  {
+      "question": "Compute the integral ∫(5x^2 + 4x) dx.",
+      "choice1": "(5/3)x^3 + 2x^2 + C",
+      "choice2": "5x^3 + 2x^2 + C",
+      "choice3": "(5/3)x^3 + 2x + C",
+      "choice4": "5x^3 + 2x + C",
+      "soln": "(5/3)x^3 + 2x^2 + C"
+  },
+  {
+      "question": "Compute the integral ∫(6x^4 + 3x^3) dx.",
+      "choice1": "(3/5)x^5 + (3/4)x^4 + C",
+      "choice2": "6x^5 + (3/4)x^4 + C",
+      "choice3": "(3/5)x^5 + x^3 + C",
+      "choice4": "6x^5 + x^3 + C",
+      "soln": "(3/5)x^5 + (3/4)x^4 + C"
+  },
+  {
+      "question": "Compute the integral ∫(7x^3 + 5x^2) dx.",
+      "choice1": "(7/4)x^4 + (5/3)x^3 + C",
+      "choice2": "7x^4 + (5/3)x^3 + C",
+      "choice3": "(7/4)x^4 + (5/3)x + C",
+      "choice4": "7x^4 + (5/3)x + C",
+      "soln": "(7/4)x^4 + (5/3)x^3 + C"
+  },
+  {
+      "question": "Find the derivative of the function f(x) = x^3 - 2x^2 + 5x - 7.",
+      "choice1": "3x^2 - 4x + 5",
+      "choice2": "3x^2 - 4x",
+      "choice3": "3x^2 - 4x - 5",
+      "choice4": "3x^2 - 4",
+      "soln": "3x^2 - 4x + 5"
+  },
+  {
+      "question": "Find the derivative of the function g(x) = 2x^4 + 3x^2 - 6x + 1.",
+      "choice1": "8x^3 + 6x - 6",
+      "choice2": "8x^3 + 6x",
+      "choice3": "8x^3 + 3x - 6",
+      "choice4": "8x^3 + 3x",
+      "soln": "8x^3 + 6x^2 - 6"
+  },
+  {
+      "question": "Find the derivative of the function h(x) = 4x^5 - 2x^3 + 6x - 3.",
+      "choice1": "20x^4 - 6x^2 + 6",
+      "choice2": "20x^4 - 6x^2",
+      "choice3": "20x^4 - 6x",
+      "choice4": "20x^4 - 6",
+      "soln": "20x^4 - 6x^2 + 6"
+  },
+  {
+      "question": "Find the derivative of the function f(x) = e^x + ln(x) + 3x^2.",
+      "choice1": "e^x + 1/x + 6x",
+      "choice2": "e^x + 1/x + 3x",
+      "choice3": "e^x + 1/x + 6",
+      "choice4": "e^x + 1/x",
+      "soln": "e^x + 1/x + 6x"
+  },
+  {
+      "question": "Find the derivative of the function g(x) = sin(x) + cos(x) + tan(x).",
+      "choice1": "cos(x) - sin(x) + sec^2(x)",
+      "choice2": "cos(x) - sin(x) + sec(x)",
+      "choice3": "cos(x) - sin(x) + csc(x)",
+      "choice4": "cos(x) - sin(x) + cot(x)",
+      "soln": "cos(x) - sin(x) + sec^2(x)"
+  },
+  {
+      "question": "Find the derivative of the function h(x) = x^3 * e^x.",
+      "choice1": "3x^2 * e^x + x^3 * e^x",
+      "choice2": "3x^2 * e^x + e^x",
+      "choice3": "3x^2 * e^x + x^3",
+      "choice4": "3x^2 * e^x",
+      "soln": "3x^2 * e^x + x^3 * e^x"
+  },
+  {
+      "question": "Find the derivative of the function f(x) = ln(x) * x^2.",
+      "choice1": "2x/x + x^2 * 1/x",
+      "choice2": "2/x + x^2 * 1/x",
+      "choice3": "2/x + x",
+      "choice4": "2/x + x^2",
+      "soln": "2/x + x^2 * 1/x"
+  },
+  {
+      "question": "Find the derivative of the function g(x) = cos(x) * e^x.",
+      "choice1": "-sin(x) * e^x + cos(x) * e^x",
+      "choice2": "-sin(x) * e^x + e^x",
+      "choice3": "-sin(x) * e^x + cos(x)",
+      "choice4": "-sin(x) * e^x",
+      "soln": "-sin(x) * e^x + cos(x) * e^x"
+  },
+  {
+      "question": "Find the derivative of the function h(x) = tan(x) * sec(x).",
+      "choice1": "sec^2(x) * sec(x) + tan(x) * tan(x)",
+      "choice2": "sec^2(x) * sec(x) + tan(x)",
+      "choice3": "sec^2(x) * sec(x) + sec(x)",
+      "choice4": "sec^2(x) * sec(x)",
+      "soln": "sec^2(x) * sec(x) + tan(x) * sec^2(x)"
+  },
+  {
+      "question": "Find the derivative of the function f(x) = e^x * sin(x).",
+      "choice1": "e^x * cos(x) + sin(x) * e^x",
+      "choice2": "e^x * cos(x) + e^x",
+      "choice3": "e^x * cos(x) + sin(x)",
+      "choice4": "e^x * cos(x)",
+      "soln": "e^x * cos(x) + sin(x) * e^x"
+  },
+  {
+      "question": "Find the derivative of the function g(x) = ln(x) * cos(x).",
+      "choice1": "-sin(x)/x + cos(x)/x",
+      "choice2": "-sin(x)/x + cos(x)",
+      "choice3": "-sin(x)/x",
+      "choice4": "cos(x)/x",
+      "soln": "-sin(x)/x + cos(x)/x"
+  },
+  {
+      "question": "Find the derivative of the function h(x) = x^2 * ln(x).",
+      "choice1": "2x * ln(x) + x^2 * 1/x",
+      "choice2": "2x * ln(x) + x^2 * ln(x)",
+      "choice3": "2x * ln(x) + x",
+      "choice4": "2x * ln(x)",
+      "soln": "2x * ln(x) + x^2 * 1/x"
+  },
+  {
+      "question": "Find the derivative of the function f(x) = sin(x) * cos(x).",
+      "choice1": "cos^2(x) - sin^2(x)",
+      "choice2": "cos^2(x) + sin^2(x)",
+      "choice3": "cos(x) - sin(x)",
+      "choice4": "cos(x) + sin(x)",
+      "soln": "cos(x) * cos(x) - sin(x) * sin(x)"
+  },
+  {
+      "question": "Find the derivative of the function g(x) = x^3 * sin(x).",
+      "choice1": "3x^2 * sin(x) + x^3 * cos(x)",
+      "choice2": "3x^2 * sin(x) + sin(x)",
+      "choice3": "3x^2 * sin(x) + x^3",
+      "choice4": "3x^2 * sin(x)",
+      "soln": "3x^2 * sin(x) + x^3 * cos(x)"
+  },
+  {
+      "question": "Find the derivative of the function h(x) = x^2 * cos(x).",
+      "choice1": "2x * cos(x) - x^2 * sin(x)",
+      "choice2": "2x * cos(x) + x^2 * sin(x)",
+      "choice3": "2x * cos(x) - x^2",
+      "choice4": "2x * cos(x)",
+      "soln": "2x * cos(x) - x^2 * sin(x)"
+  },
+  {
+      "question": "Find the derivative of the function f(x) = e^x * cos(x).",
+      "choice1": "e^x * sin(x) + cos(x) * e^x",
+      "choice2": "e^x * sin(x) + e^x",
+      "choice3": "e^x * sin(x) + cos(x)",
+      "choice4": "e^x * sin(x)",
+      "soln": "e^x * sin(x) + cos(x) * e^x"
+  },
+  {
+      "question": "Find the derivative of the function g(x) = ln(x) * tan(x).",
+      "choice1": "tan(x)/x + ln(x)/cos^2(x)",
+      "choice2": "tan(x)/x + 1/cos^2(x)",
+      "choice3": "tan(x)/x + 1",
+      "choice4": "tan(x)/x",
+      "soln": "tan(x)/x + ln(x)/cos^2(x)"
+  },
+  {
+      "question": "Find the derivative of the function h(x) = x^3 * ln(x).",
+      "choice1": "3x^2 * ln(x) + x^2 * 1/x",
+      "choice2": "3x^2 * ln(x) + x^3 * ln(x)",
+      "choice3": "3x^2 * ln(x) + x",
+      "choice4": "3x^2 * ln(x)",
+      "soln": "3x^2 * ln(x) + x^2 * 1/x"
+  },
+  {
+      "question": "Find the derivative of the function f(x) = tan(x) * cos(x).",
+      "choice1": "sec^2(x) * cos(x) - sin(x) * sec(x)",
+      "choice2": "sec^2(x) * cos(x) + sin(x) * sec(x)",
+      "choice3": "sec^2(x) * cos(x) - sin(x)",
+      "choice4": "sec^2(x) * cos(x)",
+      "soln": "sec^2(x) * cos(x) - sin(x) * sec(x)"
+  },
+  {
+      "question": "Find the derivative of the function g(x) = ln(x) * sin(x).",
+      "choice1": "cos(x)/x - sin(x)/x",
+      "choice2": "cos(x)/x - sin(x)",
+      "choice3": "cos(x)/x",
+      "choice4": "sin(x)/x",
+      "soln": "cos(x)/x - sin(x)/x"
+  },
+  {
+      "question": "Compute the integral ∫(x^2 + 2x) dx.",
+      "choice1": "(1/3)x^3 + x^2 + C",
+      "choice2": "(1/3)x^3 + 2x^2 + C",
+      "choice3": "x^3 + x^2 + C",
+      "choice4": "x^3 + 2x^2 + C",
+      "soln": "(1/3)x^3 + x^2 + C"
+  },
+  {
+      "question": "Compute the integral ∫(3x^2 + 4) dx.",
+      "choice1": "x^3 + 4x + C",
+      "choice2": "x^3 + 4 + C",
+      "choice3": "(1/3)x^3 + 4x + C",
+      "choice4": "(1/3)x^3 + 4 + C",
+      "soln": "(1/3)x^3 + 4x + C"
+  },
+  {
+      "question": "Compute the integral ∫(2x^3 + 5x^2) dx.",
+      "choice1": "(1/2)x^4 + (5/3)x^3 + C",
+      "choice2": "(1/2)x^4 + (5/2)x^3 + C",
+      "choice3": "x^4 + (5/3)x^3 + C",
+      "choice4": "x^4 + (5/2)x^3 + C",
+      "soln": "(1/2)x^4 + (5/3)x^3 + C"
+  },
+  {
+      "question": "Compute the integral ∫(4x^2 + 3x) dx.",
+      "choice1": "(4/3)x^3 + (3/2)x^2 + C",
+      "choice2": "(4/3)x^3 + (3/2)x + C",
+      "choice3": "2x^3 + (3/2)x^2 + C",
+      "choice4": "2x^3 + (3/2)x + C",
+      "soln": "(4/3)x^3 + (3/2)x^2 + C"
+  },
+  {
+      "question": "Compute the integral ∫(5x^3 + 2x) dx.",
+      "choice1": "(5/4)x^4 + x^2 + C",
+      "choice2": "(5/4)x^4 + x + C",
+      "choice3": "x^4 + x^2 + C",
+      "choice4": "x^4 + x + C",
+      "soln": "(5/4)x^4 + x^2 + C"
+  },
+  {
+      "question": "Compute the integral ∫(2x^3 + 3x^2) dx.",
+      "choice1": "(1/2)x^4 + x^3 + C",
+      "choice2": "(1/2)x^4 + x^2 + C",
+      "choice3": "x^4 + x^3 + C",
+      "choice4": "x^4 + x^2 + C",
+      "soln": "(1/2)x^4 + x^3 + C"
+  },
+  {
+      "question": "Compute the integral ∫(3x^2 + 2x + 1) dx.",
+      "choice1": "x^3 + x^2 + x + C",
+      "choice2": "(1/3)x^3 + x^2 + x + C",
+      "choice3": "(1/3)x^3 + x^2 + x + C",
+      "choice4": "x^3 + x + C",
+      "soln": "(1/3)x^3 + x^2 + x + C"
+  },
+  {
+      "question": "Compute the integral ∫(4x^3 + 5x) dx.",
+      "choice1": "(1/4)x^4 + (5/2)x^2 + C",
+      "choice2": "(1/4)x^4 + (5/2)x + C",
+      "choice3": "x^4 + (5/2)x^2 + C",
+      "choice4": "x^4 + (5/2)x + C",
+      "soln": "(1/4)x^4 + (5/2)x^2 + C"
+  },
+  {
+      "question": "Compute the integral ∫(x^3 + 3x^2 + 2x + 1) dx.",
+      "choice1": "(1/4)x^4 + x^3 + x^2 + x + C",
+      "choice2": "(1/4)x^4 + (1/3)x^3 + x^2 + x + C",
+      "choice3": "x^4 + x^3 + x^2 + x + C",
+      "choice4": "x^4 + (1/3)x^3 + x^2 + x + C",
+      "soln": "(1/4)x^4 + x^3 + x^2 + x + C"
+  },
+  {
+      "question": "Compute the integral ∫(2x^3 + x^2 + 5x) dx.",
+      "choice1": "(1/2)x^4 + (1/3)x^3 + (5/2)x^2 + C",
+      "choice2": "(1/2)x^4 + (1/3)x^3 + (5/2)x + C",
+      "choice3": "x^4 + x^3 + (5/2)x^2 + C",
+      "choice4": "x^4 + x^3 + (5/2)x + C",
+      "soln": "(1/2)x^4 + (1/3)x^3 + (5/2)x^2 + C"
+  },
+  {
+      "question": "Compute the integral ∫(3x^2 + 2x + 1) dx.",
+      "choice1": "(1/3)x^3 + x^2 + x + C",
+      "choice2": "(1/3)x^3 + x^2 + C",
+      "choice3": "x^3 + x^2 + x + C",
+      "choice4": "x^3 + x^2 + C",
+      "soln": "(1/3)x^3 + x^2 + x + C"
+  },
+  {
+      "question": "Compute the integral ∫(4x^3 + 3x^2 + 2x) dx.",
+      "choice1": "(1/4)x^4 + x^3 + x^2 + C",
+      "choice2": "(1/4)x^4 + (3/4)x^3 + x^2 + C",
+      "choice3": "x^4 + (3/4)x^3 + x^2 + C",
+      "choice4": "x^4 + x^3 + x^2 + C",
+      "soln": "(1/4)x^4 + x^3 + x^2 + C"
+  },
+  {
+      "question": "Compute the integral ∫(5x^3 + 4x^2 + 3x) dx.",
+      "choice1": "(5/4)x^4 + (4/3)x^3 + (3/2)x^2 + C",
+      "choice2": "(5/4)x^4 + (4/3)x^3 + (3/2)x + C",
+      "choice3": "x^4 + x^3 + x^2 + C",
+      "choice4": "x^4 + (4/3)x^3 + (3/2)x^2 + C",
+      "soln": "(5/4)x^4 + (4/3)x^3 + (3/2)x^2 + C"
+  },
+  {
+      "question": "Compute the integral ∫(3x^2 + 4x + 5) dx.",
+      "choice1": "(1/3)x^3 + 2x^2 + 5x + C",
+      "choice2": "(1/3)x^3 + 4x + 5 + C",
+      "choice3": "x^3 + 2x^2 + 5x + C",
+      "choice4": "x^3 + 4x + 5 + C",
+      "soln": "(1/3)x^3 + 2x^2 + 5x + C"
+  },
+  {
+      "question": "Compute the integral ∫(2x^3 + 3x^2 + 4x) dx.",
+      "choice1": "(1/2)x^4 + x^3 + 2x^2 + C",
+      "choice2": "(1/2)x^4 + (3/2)x^3 + 2x^2 + C",
+      "choice3": "x^4 + (3/2)x^3 + 2x^2 + C",
+      "choice4": "x^4 + x^3 + 2x^2 + C",
+      "soln": "(1/2)x^4 + x^3 + 2x^2 + C"
+  },
+  {
+      "question": "Compute the integral ∫(4x^3 + 5x^2 + 6x) dx.",
+      "choice1": "(1/4)x^4 + (5/3)x^3 + 3x^2 + C",
+      "choice2": "(1/4)x^4 + (5/3)x^3 + 3x + C",
+      "choice3": "x^4 + (5/3)x^3 + 3x^2 + C",
+      "choice4": "x^4 + x^3 + 3x^2 + C",
+      "soln": "(1/4)x^4 + (5/3)x^3 + 3x^2 + C"
+  },
+  {
+      "question": "Compute the integral ∫(5x^3 + 3x^2 + 2x + 1) dx.",
+      "choice1": "(5/4)x^4 + x^3 + x^2 + x + C",
+      "choice2": "(5/4)x^4 + (1/3)x^3 + x^2 + x + C",
+      "choice3": "x^4 + x^3 + x^2 + x + C",
+      "choice4": "x^4 + (1/3)x^3 + x^2 + x + C",
+      "soln": "(5/4)x^4 + x^3 + x^2 + x + C"
+  },
+  {
+      "question": "Compute the integral ∫(2x^3 + x^2 + 5x + 2) dx.",
+      "choice1": "(1/2)x^4 + (1/3)x^3 + (5/2)x^2 + 2x + C",
+      "choice2": "(1/2)x^4 + (1/3)x^3 + (5/2)x + 2 + C",
+      "choice3": "x^4 + x^3 + (5/2)x^2 + 2x + C",
+      "choice4": "x^4 + x^3 + (5/2)x + 2 + C",
+      "soln": "(1/2)x^4 + (1/3)x^3 + (5/2)x^2 + 2x + C"
+  },
+  {
+      "question": "Compute the integral ∫(3x^2 + 2x + 1 + e^x) dx.",
+      "choice1": "(1/3)x^3 + x^2 + x + e^x + C",
+      "choice2": "(1/3)x^3 + x^2 + x + e^x",
+      "choice3": "x^3 + x^2 + x + e^x + C",
+      "choice4": "x^3 + x^2 + x + e^x",
+      "soln": "(1/3)x^3 + x^2 + x + e^x + C"
+  },
+  {
+      "question": "Find the derivative of the function f(x) = (x^2 + 3x)^3.",
+      "choice1": "3(x^2 + 3x)^2(2x + 3)",
+      "choice2": "3(x^2 + 3x)^2(2x + 3)^2",
+      "choice3": "3(x^2 + 3x)(2x + 3)",
+      "choice4": "(x^2 + 3x)^2(2x + 3)^2",
+      "soln": "3(x^2 + 3x)^2(2x + 3)"
+  },
+  {
+      "question": "Find the derivative of the function g(x) = e^(2x^2 + 3x).",
+      "choice1": "e^(2x^2 + 3x)(4x + 3)",
+      "choice2": "e^(2x^2 + 3x)(4x^2 + 3)",
+      "choice3": "e^(2x^2 + 3x)(4x + 3)^2",
+      "choice4": "e^(2x^2 + 3x)(4x^2 + 3x)",
+      "soln": "e^(2x^2 + 3x)(4x + 3)"
+  },
+  {
+      "question": "Find the derivative of the function h(x) = (x^3 + 2x^2 + 3x + 1)^4.",
+      "choice1": "4(x^3 + 2x^2 + 3x + 1)^3(3x^2 + 4x + 3)",
+      "choice2": "4(x^3 + 2x^2 + 3x + 1)^3(3x^3 + 4x^2 + 3x)",
+      "choice3": "(x^3 + 2x^2 + 3x + 1)^3(3x^2 + 4x + 3)",
+      "choice4": "4(x^3 + 2x^2 + 3x + 1)^2(3x^2 + 4x + 3)",
+      "soln": "4(x^3 + 2x^2 + 3x + 1)^3(3x^2 + 4x + 3)"
+  },
+  {
+      "question": "Find the derivative of the function f(x) = sin(x^2 + 2x).",
+      "choice1": "cos(x^2 + 2x)(2x + 2)",
+      "choice2": "cos(x^2 + 2x)(x^2 + 2x)",
+      "choice3": "sin(x^2 + 2x)(2x + 2)",
+      "choice4": "cos(x^2 + 2x)(x^2 + 2x)^2",
+      "soln": "cos(x^2 + 2x)(2x + 2)"
+  },
+  {
+      "question": "Find the derivative of the function g(x) = tan(x^3 + 3x).",
+      "choice1": "sec^2(x^3 + 3x)(3x^2 + 3)",
+      "choice2": "sec^2(x^3 + 3x)(x^3 + 3x)",
+      "choice3": "tan(x^3 + 3x)(3x^2 + 3)",
+      "choice4": "sec^2(x^3 + 3x)(x^3 + 3x)^2",
+      "soln": "sec^2(x^3 + 3x)(3x^2 + 3)"
+  },
+  {
+      "question": "Find the derivative of the function h(x) = cos(2x^3 + 4x).",
+      "choice1": "-sin(2x^3 + 4x)(6x^2 + 4)",
+      "choice2": "-sin(2x^3 + 4x)(2x^3 + 4x)",
+      "choice3": "-cos(2x^3 + 4x)(6x^2 + 4)",
+      "choice4": "-sin(2x^3 + 4x)(2x^3 + 4x)^2",
+      "soln": "-sin(2x^3 + 4x)(6x^2 + 4)"
+  },
+  {
+      "question": "Find the derivative of the function f(x) = ln(x^2 + 3x).",
+      "choice1": "(2x + 3)/(x^2 + 3x)",
+      "choice2": "(x^2 + 3x)/(2x + 3)",
+      "choice3": "(2x + 3)/(x^2 + 3x)^2",
+      "choice4": "(x^2 + 3x)^2/(2x + 3)",
+      "soln": "(2x + 3)/(x^2 + 3x)"
+  },
+  {
+      "question": "Find the derivative of the function g(x) = e^(x^3 + 3x^2).",
+      "choice1": "e^(x^3 + 3x^2)(3x^2 + 6x)",
+      "choice2": "e^(x^3 + 3x^2)(3x^2 + 3)",
+      "choice3": "e^(x^3 + 3x^2)(3x^2 + 3x)",
+      "choice4": "e^(x^3 + 3x^2)(x^3 + 3x^2)",
+      "soln": "e^(x^3 + 3x^2)(3x^2 + 6x)"
+  },
+  {
+      "question": "Find the derivative of the function h(x) = sinh(x^2 + 2x).",
+      "choice1": "cosh(x^2 + 2x)(2x + 2)",
+      "choice2": "cosh(x^2 + 2x)(x^2 + 2x)",
+      "choice3": "sinh(x^2 + 2x)(2x + 2)",
+      "choice4": "cosh(x^2 + 2x)(x^2 + 2x)^2",
+      "soln": "cosh(x^2 + 2x)(2x + 2)"
+  },
+  {
+      "question": "Find the derivative of the function f(x) = tanh(x^3 + 3x).",
+      "choice1": "sech^2(x^3 + 3x)(3x^2 + 3)",
+      "choice2": "sech^2(x^3 + 3x)(x^3 + 3x)",
+      "choice3": "tanh(x^3 + 3x)(3x^2 + 3)",
+      "choice4": "sech^2(x^3 + 3x)(x^3 + 3x)^2",
+      "soln": "sech^2(x^3 + 3x)(3x^2 + 3)"
+  },
+  {
+      "question": "Find the derivative of the function g(x) = cosh(2x^3 + 4x).",
+      "choice1": "sinh(2x^3 + 4x)(6x^2 + 4)",
+      "choice2": "sinh(2x^3 + 4x)(2x^3 + 4x)",
+      "choice3": "cosh(2x^3 + 4x)(6x^2 + 4)",
+      "choice4": "sinh(2x^3 + 4x)(2x^3 + 4x)^2",
+      "soln": "sinh(2x^3 + 4x)(6x^2 + 4)"
+  },
+  {
+      "question": "Find the derivative of the function h(x) = arcsin(x^2 + 2x).",
+      "choice1": "1/sqrt(1 - (x^2 + 2x)^2)(2x + 2)",
+      "choice2": "1/sqrt(1 - (x^2 + 2x)^2)(x^2 + 2x)",
+      "choice3": "arcsin(x^2 + 2x)(2x + 2)",
+      "choice4": "1/sqrt(1 - (x^2 + 2x)^2)(x^2 + 2x)^2",
+      "soln": "1/sqrt(1 - (x^2 + 2x)^2)(2x + 2)"
+  },
+  {
+      "question": "Find the derivative of the function f(x) = arccos(x^3 + 3x).",
+      "choice1": "-1/sqrt(1 - (x^3 + 3x)^2)(3x^2 + 3)",
+      "choice2": "-1/sqrt(1 - (x^3 + 3x)^2)(x^3 + 3x)",
+      "choice3": "arccos(x^3 + 3x)(3x^2 + 3)",
+      "choice4": "-1/sqrt(1 - (x^3 + 3x)^2)(x^3 + 3x)^2",
+      "soln": "-1/sqrt(1 - (x^3 + 3x)^2)(3x^2 + 3)"
+  },
+  {
+      "question": "Find the derivative of the function g(x) = arctan(2x^3 + 4x).",
+      "choice1": "1/(1 + (2x^3 + 4x)^2)(6x^2 + 4)",
+      "choice2": "1/(1 + (2x^3 + 4x)^2)(2x^3 + 4x)",
+      "choice3": "arctan(2x^3 + 4x)(6x^2 + 4)",
+      "choice4": "1/(1 + (2x^3 + 4x)^2)(2x^3 + 4x)^2",
+      "soln": "1/(1 + (2x^3 + 4x)^2)(6x^2 + 4)"
+  },
+  {
+      "question": "Find the derivative of the function h(x) = arccosh(x^2 + 2x).",
+      "choice1": "1/sqrt((x^2 + 2x)^2 - 1)(2x + 2)",
+      "choice2": "1/sqrt((x^2 + 2x)^2 - 1)(x^2 + 2x)",
+      "choice3": "arccosh(x^2 + 2x)(2x + 2)",
+      "choice4": "1/sqrt((x^2 + 2x)^2 - 1)(x^2 + 2x)^2",
+      "soln": "1/sqrt((x^2 + 2x)^2 - 1)(2x + 2)"
+  },
+  {
+      "question": "Find the derivative of the function f(x) = arctanh(x^3 + 3x).",
+      "choice1": "1/(1 - (x^3 + 3x)^2)(3x^2 + 3)",
+      "choice2": "1/(1 - (x^3 + 3x)^2)(x^3 + 3x)",
+      "choice3": "arctanh(x^3 + 3x)(3x^2 + 3)",
+      "choice4": "1/(1 - (x^3 + 3x)^2)(x^3 + 3x)^2",
+      "soln": "1/(1 - (x^3 + 3x)^2)(3x^2 + 3)"
+  },
+  {
+      "question": "Find the derivative of the function g(x) = arccosh(2x^3 + 4x).",
+      "choice1": "1/sqrt((2x^3 + 4x)^2 - 1)(6x^2 + 4)",
+      "choice2": "1/sqrt((2x^3 + 4x)^2 - 1)(2x^3 + 4x)",
+      "choice3": "arccosh(2x^3 + 4x)(6x^2 + 4)",
+      "choice4": "1/sqrt((2x^3 + 4x)^2 - 1)(2x^3 + 4x)^2",
+      "soln": "1/sqrt((2x^3 + 4x)^2 - 1)(6x^2 + 4)"
+  },
+  {
+      "question": "Find the derivative of the function h(x) = arctanh(2x^2 + 4x).",
+      "choice1": "1/(1 - (2x^2 + 4x)^2)(4x + 4)",
+      "choice2": "1/(1 - (2x^2 + 4x)^2)(2x^2 + 4x)",
+      "choice3": "arctanh(2x^2 + 4x)(4x + 4)",
+      "choice4": "1/(1 - (2x^2 + 4x)^2)(2x^2 + 4x)^2",
+      "soln": "1/(1 - (2x^2 + 4x)^2)(4x + 4)"
+  },
+  {
+      "question": "Find the derivative of the function f(x) = arcsinh(x^3 + 3x).",
+      "choice1": "1/sqrt((x^3 + 3x)^2 + 1)(3x^2 + 3)",
+      "choice2": "1/sqrt((x^3 + 3x)^2 + 1)(x^3 + 3x)",
+      "choice3": "arcsinh(x^3 + 3x)(3x^2 + 3)",
+      "choice4": "1/sqrt((x^3 + 3x)^2 + 1)(x^3 + 3x)^2",
+      "soln": "1/sqrt((x^3 + 3x)^2 + 1)(3x^2 + 3)"
+  },
+  {
+      "question": "Find the derivative of the function g(x) = arccosh(2x^2 + 4x).",
+      "choice1": "1/sqrt((2x^2 + 4x)^2 - 1)(4x + 4)",
+      "choice2": "1/sqrt((2x^2 + 4x)^2 - 1)(2x^2 + 4x)",
+      "choice3": "arccosh(2x^2 + 4x)(4x + 4)",
+      "choice4": "1/sqrt((2x^2 + 4x)^2 - 1)(2x^2 + 4x)^2",
+      "soln": "1/sqrt((2x^2 + 4x)^2 - 1)(4x + 4)"
+  },
+  {
+      "question": "Compute the integral ∫(x^2 + 2x + 1) dx.",
+      "choice1": "(1/3)x^3 + x^2 + x + C",
+      "choice2": "(1/3)x^3 + 2x^2 + x + C",
+      "choice3": "(1/3)x^3 + 2x^2 + 2x + C",
+      "choice4": "(1/3)x^3 + x^2 + 2x + C",
+      "soln": "(1/3)x^3 + x^2 + 2x + C"
+  },
+  {
+      "question": "Compute the integral ∫(3x^2 + 2x) dx.",
+      "choice1": "x^3 + x^2 + C",
+      "choice2": "x^3 + x + C",
+      "choice3": "(3/2)x^3 + 2x^2 + C",
+      "choice4": "(3/2)x^3 + x^2 + C",
+      "soln": "(3/2)x^3 + x^2 + C"
+  },
+  {
+      "question": "Compute the integral ∫(2x^3 + 3x^2 + x) dx.",
+      "choice1": "(1/2)x^4 + x^3 + (1/2)x^2 + C",
+      "choice2": "(1/2)x^4 + x^3 + x^2 + C",
+      "choice3": "(1/2)x^4 + (3/2)x^3 + x^2 + C",
+      "choice4": "(1/2)x^4 + (3/2)x^3 + (1/2)x^2 + C",
+      "soln": "(1/2)x^4 + x^3 + (1/2)x^2 + C"
+  },
+  {
+      "question": "Compute the integral ∫(4x^3 - 2x^2 + 3x - 1) dx.",
+      "choice1": "x^4 - (2/3)x^3 + (3/2)x^2 - x + C",
+      "choice2": "x^4 - (2/3)x^3 + (3/2)x^2 + x + C",
+      "choice3": "(4/5)x^4 - (2/3)x^3 + (3/2)x^2 + x + C",
+      "choice4": "(4/5)x^4 - (2/3)x^3 + (3/2)x^2 - x + C",
+      "soln": "x^4 - (2/3)x^3 + (3/2)x^2 - x + C"
+  },
+  {
+      "question": "Compute the integral ∫(e^x + sin(x) + cos(x)) dx.",
+      "choice1": "e^x - cos(x) + sin(x) + C",
+      "choice2": "e^x + cos(x) + sin(x) + C",
+      "choice3": "e^x + cos(x) - sin(x) + C",
+      "choice4": "e^x - cos(x) - sin(x) + C",
+      "soln": "e^x + sin(x) - cos(x) + C"
+  },
+  {
+      "question": "Compute the integral ∫(1/x) dx.",
+      "choice1": "ln|x| + C",
+      "choice2": "ln(x) + C",
+      "choice3": "log|x| + C",
+      "choice4": "log(x) + C",
+      "soln": "ln|x| + C"
+  },
+  {
+      "question": "Compute the integral ∫(1/x^2) dx.",
+      "choice1": "-1/x + C",
+      "choice2": "-1/x^2 + C",
+      "choice3": "1/x + C",
+      "choice4": "1/x^2 + C",
+      "soln": "-1/x + C"
+  },
+  {
+      "question": "Compute the integral ∫(sin(x) + cos(x)) dx.",
+      "choice1": "-cos(x) + sin(x) + C",
+      "choice2": "cos(x) - sin(x) + C",
+      "choice3": "cos(x) + sin(x) + C",
+      "choice4": "-cos(x) - sin(x) + C",
+      "soln": "-cos(x) + sin(x) + C"
+  },
+  {
+      "question": "Compute the integral ∫(sec^2(x) + tan(x)) dx.",
+      "choice1": "tan(x) + sec(x) + C",
+      "choice2": "tan(x) - sec(x) + C",
+      "choice3": "tan(x) + sec(x) - C",
+      "choice4": "-tan(x) - sec(x) + C",
+      "soln": "tan(x) + sec(x) + C"
+  },
+  {
+      "question": "Compute the integral ∫(1/(1 + x^2)) dx.",
+      "choice1": "arctan(x) + C",
+      "choice2": "arcsin(x) + C",
+      "choice3": "arccos(x) + C",
+      "choice4": "arccsc(x) + C",
+      "soln": "arctan(x) + C"
+  },
+  {
+      "question": "Compute the integral ∫(x^3 + 3x^2 + 2) dx.",
+      "choice1": "(1/4)x^4 + x^3 + 2x + C",
+      "choice2": "(1/4)x^4 + 3x^3 + 2x + C",
+      "choice3": "(1/4)x^4 + 3x^3 + 2x^2 + C",
+      "choice4": "(1/4)x^4 + x^3 + 3x^2 + C",
+      "soln": "(1/4)x^4 + x^3 + 2x + C"
+  },
+  {
+      "question": "Compute the integral ∫(e^x + ln(x)) dx.",
+      "choice1": "e^x + xln(x) - x + C",
+      "choice2": "e^x + xln(x) + x + C",
+      "choice3": "e^x + xln(x) - 2x + C",
+      "choice4": "e^x + xln(x) - 3x + C",
+      "soln": "e^x + xln(x) - x + C"
+  },
+  {
+      "question": "Compute the integral ∫(tan(x)sec^2(x)) dx.",
+      "choice1": "sec(x) - tan(x) + C",
+      "choice2": "sec(x) + tan(x) + C",
+      "choice3": "sec(x) - ln|sec(x)| + C",
+      "choice4": "sec(x) + ln|sec(x)| + C",
+      "soln": "sec(x) - tan(x) + C"
+  },
+  {
+      "question": "Compute the integral ∫(1/(x^2 + 1)) dx.",
+      "choice1": "arctan(x) + C",
+      "choice2": "arcsin(x) + C",
+      "choice3": "arccos(x) + C",
+      "choice4": "arccsc(x) + C",
+      "soln": "arctan(x) + C"
+  },
+  {
+      "question": "Compute the integral ∫(2^x + e^x) dx.",
+      "choice1": "(2^x)/ln(2) + e^x + C",
+      "choice2": "(2^x)/ln(2) + ln(e)x + C",
+      "choice3": "2^(x+1) + e^x + C",
+      "choice4": "2^x + e^x + x + C",
+      "soln": "(2^x)/ln(2) + e^x + C"
+  },
+  {
+      "question": "Compute the integral ∫(x^2 + x + 1)/(x^2 + x) dx.",
+      "choice1": "x + ln|x| + C",
+      "choice2": "x + ln(x) + C",
+      "choice3": "x + 1 + C",
+      "choice4": "x + 2 + C",
+      "soln": "x + ln|x| + C"
+  },
+  {
+      "question": "Compute the integral ∫(sec(x)tan(x) + csc(x)cot(x)) dx.",
+      "choice1": "sec(x) + csc(x) + C",
+      "choice2": "ln|sec(x)| - ln|csc(x)| + C",
+      "choice3": "ln|sec(x) + csc(x)| + C",
+      "choice4": "ln|sec(x) - csc(x)| + C",
+      "soln": "ln|sec(x) - csc(x)| + C"
+  },
+  {
+      "question": "Compute the integral ∫(sqrt(1 + x^2)) dx.",
+      "choice1": "(1/2)x*sqrt(1 + x^2) + (1/2)ln|sqrt(1 + x^2) + x| + C",
+      "choice2": "(1/2)x*sqrt(1 + x^2) + (1/2)ln|1 + x^2| + C",
+      "choice3": "(1/2)x*sqrt(1 + x^2) + (1/2)ln|1 - x^2| + C",
+      "choice4": "(1/2)x*sqrt(1 + x^2) + (1/2)ln|sqrt(1 - x^2)| + C",
+      "soln": "(1/2)x*sqrt(1 + x^2) + (1/2)ln|sqrt(1 + x^2) + x| + C"
+  },
+  {
+      "question": "Compute the integral ∫(1/(1 - x^2)) dx.",
+      "choice1": "(1/2)ln|(1 - x)/(1 + x)| + C",
+      "choice2": "ln|(1 - x)/(1 + x)| + C",
+      "choice3": "(1/2)ln|(1 + x)/(1 - x)| + C",
+      "choice4": "ln|(1 + x)/(1 - x)| + C",
+      "soln": "(1/2)ln|(1 - x)/(1 + x)| + C"
+  },
+  {
+      "question": "Compute the integral ∫(1/sin(x) + 1/cos(x)) dx.",
+      "choice1": "ln|tan(x) + sec(x)| + C",
+      "choice2": "ln|tan(x) - sec(x)| + C",
+      "choice3": "ln|cot(x) + csc(x)| + C",
+      "choice4": "ln|cot(x) - csc(x)| + C",
+      "soln": "ln|tan(x) + sec(x)| + C"
+  }
+]
